@@ -6,6 +6,12 @@ body {
   width: 50;
 }
 
+.inicio{
+  background-image: url(../img/hero.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
 .acercademi{
     background-color: #0AA1DD ;
 }
